@@ -7,6 +7,7 @@ In this project you will refactor the styling you completed in the APOD app. You
 ---
 
 Read these instructions carefully. Understand exactly what is expected before starting this project.
+read me
 
 ## Commits
 
